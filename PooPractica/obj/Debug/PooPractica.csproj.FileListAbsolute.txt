@@ -1,0 +1,10 @@
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\bin\Debug\PooPractica.exe.config
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\bin\Debug\PooPractica.exe
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\bin\Debug\PooPractica.pdb
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\obj\Debug\PooPractica.csproj.AssemblyReference.cache
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\obj\Debug\PooPractica.Form1.resources
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\obj\Debug\PooPractica.Properties.Resources.resources
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\obj\Debug\PooPractica.csproj.GenerateResource.cache
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\obj\Debug\PooPractica.csproj.CoreCompileInputs.cache
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\obj\Debug\PooPractica.exe
+C:\Users\nando\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\PooPractica\PooPractica\obj\Debug\PooPractica.pdb
